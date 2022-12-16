@@ -11,5 +11,5 @@ Installation & Usage
 ```
 git clone https://github.com/Grantstreet1337/Copy2File
 cd ./Copy2File
-pip3 install -r requirements.txt
+apt install xclip
 ```
